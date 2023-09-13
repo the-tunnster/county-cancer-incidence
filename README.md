@@ -1,7 +1,15 @@
-regression
+Regression.
 ==============================
 
-A short description of the project.
+A fairly straightforward regression based data analysis project.
+This project focuses on :
+    1. Data Pre-Processing and Cleaning
+    2. Exploratory Data Analyses
+    3. Linear Regression Model Training and Predictions
+
+A lot of the folders are going to be empty or not really useful, simply because I haven't fleshed out anything except the actual data science stuff.
+If you have any suggestions or pointers, do let me know.
+Also, you're free to use/reuse this as you see fit, just make sure you don't get caught.
 
 Project Organization
 ------------
@@ -50,8 +58,3 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
-
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
