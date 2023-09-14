@@ -2,6 +2,13 @@
 -e .
 
 # external requirements
+numpy
+pandas
+google.colab
+ydata_profiling
+altair
+sklearn
+
 click
 Sphinx
 coverage
