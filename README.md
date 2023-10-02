@@ -32,4 +32,11 @@ Project Organization
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment.
 
-Remember to install the requirements and use a virtual environment, if you know how to use one.
+
+Remember to install the requirements and use a virtual environment, if you know how to use one :
+    `python -m venv /path/to/venv`
+    `source venv/bin/activate`
+
+You can then run :
+    `pip install -r requirements.txt`
+This will install required external pacakges for this to work.
